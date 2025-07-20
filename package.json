@@ -11,12 +11,16 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@iconify/react": "^6.0.0",
     "@remix-run/node": "^2.16.8",
     "@remix-run/react": "^2.16.8",
     "@remix-run/serve": "^2.16.8",
+    "framer-motion": "^12.23.6",
     "isbot": "^4.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.3.8",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.16.8",
